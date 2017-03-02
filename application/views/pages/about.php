@@ -1,0 +1,1 @@
+<p>Welcome to Sam's introduction to Codeigniter's MVC framework.</p>
